@@ -19,3 +19,6 @@ The frontend code contains a function that get the input(movie ID) from the user
 For the movie Bullet train (Movie ID: 12593682), a sample result would look like this:  
 
 ![微信图片_20221206235152](https://user-images.githubusercontent.com/112440325/206091540-106357b3-4cfd-4854-a611-cf22f10ac557.png)
+
+## Attribution
+GitHub, Stackflow, Reddit
